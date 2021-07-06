@@ -1,4 +1,4 @@
-# <a href="http://www.ikash.nl/">Ikash Android App</a>
+# <a href="http://www.ikash.nl/">Ikash</a> Android App
 <h2><a href="http://www.ikash.nl/">Ikash</a> android app is not yet live. Here are some screenshot for reference</h2>
 
 <table>
